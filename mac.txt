@@ -1,0 +1,4 @@
+
+Physical Address    Transport Name                                            
+=================== ==========================================================
+D8-5E-D3-5F-50-E5   \Device\Tcpip_{3858274F-FCA1-4827-8FDB-A9E5F4CEEE57}      

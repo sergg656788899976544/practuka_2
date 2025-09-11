@@ -1,0 +1,12 @@
+ Volume in drive D is Новий том
+ Volume Serial Number is D6AA-7799
+
+ Directory of d:\
+
+10.09.2025  16:28                60 author.txt
+10.09.2025  15:59    <DIR>          progs
+10.09.2025  16:45    <DIR>          pr_1
+10.09.2025  15:13    <DIR>          SteamLibrary
+24.07.2025  09:07    <DIR>          Wondershare
+               1 File(s)             60 bytes
+               4 Dir(s)  341 752 471 552 bytes free

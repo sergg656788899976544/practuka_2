@@ -1,0 +1,20 @@
+Folder PATH listing for volume Íîâèé òîì
+Volume serial number is D6AA-7799
+V:.
++---Autumn
+¦   +---November
+¦   +---October
+¦   L---September
++---git
++---Spring
+¦   +---April
+¦   +---March
+¦   L---May
++---Summer
+¦   +---August
+¦   +---Jule
+¦   L---June
+L---Winter
+    +---December
+    +---Febtuary
+    L---January
